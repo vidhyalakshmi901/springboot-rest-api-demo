@@ -3,12 +3,19 @@ Spring Boot REST API demo with JPA, Hibernate and Swagger
 This project demonstrates a simple REST API built using Spring Boot, Spring Data JPA, and Hibernate.
 
 ## Features
-- CRUD REST APIs
+##- CRUD REST APIs
 - Spring Boot + Hibernate
 - JPA Entity mapping
 - Global exception handling
 - Swagger (OpenAPI) documentation
-- H2 in-memory database
+- H2 in-memory database ##
+
+- CRUD REST APIs
+- JPA/Hibernate mappings
+- Validation
+- Global exception handling
+- Swagger documentation
+- Postman-tested
 
 ## Tech Stack
 - Java
